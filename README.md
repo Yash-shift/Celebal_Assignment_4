@@ -1,0 +1,1 @@
+i tried to create a resourse and to create a database in azure but for that i need to create a subscription and for free use i am not able to verfiy myself a student i am facing some issue , please consider this assignment.
